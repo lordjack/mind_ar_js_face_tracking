@@ -4,5 +4,4 @@
 
 **Teste com o Face Tracking**
 
-
-![frame](https://user-images.githubusercontent.com/6691621/200196060-ecb9ec44-0040-499f-9907-004d69cc3833.png)
+<img src="https://user-images.githubusercontent.com/6691621/200198251-7cc29cff-76ca-407d-8d1b-39453b2cad0e.png" alt="drawing" style="width:300px;"/>
